@@ -18,6 +18,7 @@ header {
 header h1{
     text-align: center;
     color: #25272E; 
+    font-size: 50px;
 }
 
 .score-board{
@@ -50,4 +51,12 @@ header h1{
     position: absolute;
     top: 27px;
     right: -20px;
+}
+
+.result{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    font-weight: bold;
 }
