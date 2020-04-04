@@ -60,3 +60,25 @@ header h1{
     font-family: 'Comic Neue', cursive;
     font-weight: bold;
 }
+
+.choices{
+    text-align: center;
+    padding: 20px ; 
+}
+.choice{
+    display: inline-block;
+    margin: 0px 15px ;
+    opacity: 0.8;
+}
+
+.choice:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+#action-msg{
+    text-align: center;
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    font-size: 30px;
+}
